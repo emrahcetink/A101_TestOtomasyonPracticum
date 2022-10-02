@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="75.777">
+    <testcase classname="A101 Test Otomasyon Practicum" name="Kullanici urun secip odeme yapar" time="75.771">
+        <system-out>
+            <![CDATA[Given kullanici "a101Url" anasayfasina gider................................passed
+Then kullanici cookie kabul eder............................................passed
+Then kullanici giyim aksesuar bolumunu tiklar...............................passed
+And kullanici dizalticorap tiklar...........................................passed
+And kullanici urunu secer...................................................passed
+And kullanici secilen urunun siyah oldugunu dogrular........................passed
+And kullanici urunu sepete ekler............................................passed
+And kullanici sepeti goruntule butonuna tiklar..............................passed
+And kullanici sepeti onayla butonuna tiklar.................................passed
+And kullanici uye olmadan devam et butonuna tiklar..........................passed
+And kullanici mail adresi girer ve devam et butonuna tiklar.................passed
+And kullanici yeni adres olustur butonuna tiklar............................passed
+And kullanici adres bilgilerini girer ve kaydet butonuna tiklar.............passed
+And kullanici kaydet ve devam et butonuna tiklar............................passed
+And kullanici odeme ekranina geldigini dogrular.............................passed
+And kullanici siparisi tamamla butonuna tiklar..............................passed
+And kullanici sayfayi kapatir...............................................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
